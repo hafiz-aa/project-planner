@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create integration between Netsuite and Dealpos",
+      "details": "Create an app to communicate between Netsuite and Dealpos",
+      "complete": false
+    }
+  ]
+}
