@@ -4,7 +4,37 @@
       "id": 1,
       "title": "Create integration between Netsuite and Dealpos",
       "details": "Create an app to communicate between Netsuite and Dealpos",
-      "complete": false
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Create integration between Kissflow and Xero",
+      "details": "Create an app to communicate between Kissflow and Xero ",
+      "complete": true
+    },
+    {
+      "title": "Create API",
+      "details": "Create CRUD REST API",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Design a new UI/UX",
+      "details": "Create a new UI/UX for the website",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Meeting dengan RuangGuru",
+      "details": "- Senin 23 Mei 2022 jam 14.00\n- Membahas integrasi ",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "Create a meeting schedule",
+      "details": "Meeting about KissFlow and Xero",
+      "complete": false,
+      "id": 6
     }
   ]
 }
